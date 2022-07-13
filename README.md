@@ -1,6 +1,6 @@
 # ChiquititoCafe
 Sean bienvenidos 
 <html>
-<a href="Pagina Principal.html" target="blank"> enlace a página principal </a>
+<a href="Pagina principal.html" target="blank"> enlace a página principal </a>
 
 </html>
