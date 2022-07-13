@@ -1,6 +1,7 @@
 # ChiquititoCafe
-Sean bienvenidos 
+¡Sean bienvenidos!
+Ingresa a nuetra pagina dando: 
 <html>
-<a href="Pagina principal.html" target="blank"> enlace a página principal </a>
+<a href="Pagina principal.html" target="blank"> Clik aqui </a>
 
 </html>
